@@ -1,0 +1,4 @@
+runfile('D:/UNI-Cloud/python/projekte/Pruefung_Modul04/pruefung_version2.py')
+Die minimalste Temperatur im Jahr 2021 betrug -8.6 Grad, gemessen am 13.02.2021.
+Die höchste Temperatur im Jahr 2021 betrug 26.6 Grad, gemessen am 17.06.2021.
+Und die durchschnittliche Temparatur im Jahr 2021 betrug 9.89 Grad.
